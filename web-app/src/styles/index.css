@@ -101,7 +101,6 @@ body {
   flex-direction: row;
   align-items: center;
   font-family: var(--ff);
-  width:  max-content;
 }
 
 .cursor-pointer{
