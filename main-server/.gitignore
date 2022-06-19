@@ -2,4 +2,3 @@ node_modules
 .development.env
 .production.env
 constants
-logs
