@@ -1,7 +1,7 @@
 
 const MenuLessonOptionsConstants = [
     "Редактировать",
-    "Архивировать"
+    "Удалить"
 ];
 
 export default MenuLessonOptionsConstants;

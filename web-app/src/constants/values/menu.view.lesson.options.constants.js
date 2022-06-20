@@ -1,7 +1,7 @@
 
-const MenuLessonOptionsConstants = [
+const MenuViewLessonOptionsConstants = [
     "Редактировать", 
     "Архивировать"
 ];
 
-export default MenuLessonOptionsConstants;
+export default MenuViewLessonOptionsConstants;
