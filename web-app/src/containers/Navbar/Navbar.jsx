@@ -32,7 +32,6 @@ const Navbar = () => {
           }}
         >
           <img className={styles["icon"]} src={menu} />
-          <text className={styles["text"]} >Контент</text>
         </button>
       </NavLink>
 
@@ -48,7 +47,6 @@ const Navbar = () => {
           }}
         >
           <img className={styles["icon"]} src={add} />
-          <text className={styles["text"]} >Новое</text>
         </button>
       </NavLink>
 
@@ -64,7 +62,6 @@ const Navbar = () => {
           }}
         >
           <img className={styles["icon"]} src={category} style={{width: '30px'}}/>
-          <text className={styles["text"]} >Категории</text>
         </button>
       </NavLink>
 
@@ -79,7 +76,6 @@ const Navbar = () => {
             })
           }}>
           <img className={styles["icon"]} src={archive} />
-          <text className={styles["text"]}>Архив</text>
         </button>
       </NavLink>
 
@@ -90,7 +86,6 @@ const Navbar = () => {
         }}
       >
         <img className={styles["icon"]} src={out} />
-        <text className={styles["text"]} >Выйти</text>
       </button>
     </div>
   );

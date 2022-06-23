@@ -155,7 +155,7 @@ const CreatorLesson = (props) => {
               id="name"
               name="name"
               type="text"
-              placeholder="Введите название урока"
+              placeholder="Введите тип аудиофайла"
               value={type ?? ""}
               onChange={onChangeType}
             />
